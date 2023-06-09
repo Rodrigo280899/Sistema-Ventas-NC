@@ -20,6 +20,7 @@ namespace SistemaVenta.Controllers
 
         public IActionResult Index2()
         {
+            string x = "";
             return View();
         }
 
