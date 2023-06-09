@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Aza/alC9goMncw8q8IB2+Mx5/Mut+8R/eZujqVhTGhDTywU8lVV73wAZ/tQ5iIsR05z1rvNAklCKzaB/EibqFg==",
+  "dgSpecHash": "UQpw1H5IDb30dDbEnLDyHEziKL/BXT4aNMpHEjKvBNN3mv0Kv2kYRXXMMCnUCMO9GhRIBdb58q7ODFA28brsJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vC+KBYt69xrL7zLW0IiXTYcCzlJ+QWgnrXb3AIkJAahBxZkUF59ZBuyQUIiMHmiVjZAVd5tJKzXm2c1dqy/Ddw==",
+  "dgSpecHash": "A9pGeSt0ogaAinjDREnET5WoO+23jdPYKI9xTWpfhSkXK7se2KjKs7B4vhuYiNqtIEw+SXYQMTfePYYxuGiVJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

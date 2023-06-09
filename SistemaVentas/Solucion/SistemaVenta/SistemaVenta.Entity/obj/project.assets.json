@@ -1869,11 +1869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "projectName": "SistemaVenta.Entity",
-      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",

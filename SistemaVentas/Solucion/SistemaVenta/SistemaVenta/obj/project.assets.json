@@ -9803,11 +9803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
+      "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
       "projectName": "SistemaVenta",
-      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
+      "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\SistemaVenta.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\obj\\",
+      "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9824,14 +9824,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
+            "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj"
             },
-            "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
+            "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj"
             },
-            "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
-              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
+            "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj"
             }
           }
         }

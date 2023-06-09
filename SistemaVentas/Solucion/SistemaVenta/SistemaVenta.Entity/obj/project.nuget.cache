@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x/KdIaxa8wEaJppNpAJ/tW19qJcO3i/HPl9oZNfRPv8eB6jn8bR9fPwI8soxFl9aNy/GPi7ysk+Y13rHZD+3cw==",
+  "dgSpecHash": "ezvptIBry0egVSIPw3lk7HvGOXkVlfVGuhzkn9qD0cI1c5X1cdm6nkBFSrL6VWFXQwUDXG8q6nkyFXvfswwTVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\OneDrive\\Escritorio\\SistemaVentas\\Git\\SistemaVentas\\Solucion\\SistemaVenta\\SistemaVenta.Entity\\SistemaVenta.Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
